@@ -49,12 +49,12 @@ After seeding. Login details as follows:
 
 | Account Type  | Username | Email | Password |
 | ------------- | -------- | ----- | -------- |
-| Super Admin | cj | cj@cj.com | cj |
-|  Admin | admin | admin@admin.com | cj |
-|  Teacher | teacher | teacher@teacher.com | cj |
-|  Parent | parent | parent@parent.com | cj |
-|  Accountant | accountant | accountant@accountant.com | cj |
-|  Student | student | student@student.com | cj |
+| Super Admin | pv | paulvosk.com | pv |
+|  Admin | admin | admin@admin.com | pv |
+|  Teacher | teacher | teacher@teacher.com | pv |
+|  Parent | parent | parent@parent.com | pv |
+|  Accountant | accountant | accountant@accountant.com | pv |
+|  Student | student | student@student.com | pv |
 
 #### **FUNCTIONS OF ACCOUNTS** 
 
@@ -111,7 +111,7 @@ Your Contributions & suggestions are welcomed. Please use Pull Request
 
 ### **Security Vulnerabilities**
 
-If you discover a security vulnerability within LAV_SMS, please send an e-mail to CJ Inspired via cjay.pub@gmail.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Learning-platform, please send an e-mail to CJ Inspired via paulriemii@gmail.com. All security vulnerabilities will be promptly addressed.
 
 ***Please Note*** that some sections of this project are in the work-in-progress stage and would be updated soon. These include:
 
@@ -119,5 +119,5 @@ If you discover a security vulnerability within LAV_SMS, please send an e-mail t
 - Librarian/Acountant user pages
 - Library Resources/Study Materials Upload for Students
 
-### **Contact [CJ INSPIRED]**
+### **Contact [VOSK PAUL]**
 - Phone : +254115346990
