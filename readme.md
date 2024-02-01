@@ -49,7 +49,7 @@ After seeding. Login details as follows:
 
 | Account Type  | Username | Email | Password |
 | ------------- | -------- | ----- | -------- |
-| Super Admin | pv | paulvosk.com | pv |
+| Super Admin | pv | paulriemii@gmail.com | pv |
 |  Admin | admin | admin@admin.com | pv |
 |  Teacher | teacher | teacher@teacher.com | pv |
 |  Parent | parent | parent@parent.com | pv |
